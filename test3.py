@@ -8,7 +8,7 @@ plt.plot(x,y)
 plt.axis('equal')  # هاد السطر مهم باش الدائرة تبان صحيحة
 plt.xlabel("L'axe X")
 plt.ylabel("L'axe Y")
-plt.savefig("/storage/emulated/0/Download/test4.png")
+plt.savefig("/storage/emulated/0/Download/test3.png")
 plt.grid(True)
 
 
