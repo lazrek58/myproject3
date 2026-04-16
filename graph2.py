@@ -13,4 +13,4 @@ plt.plot(x, y)
 plt.title("$y = x^2$")
 
 # حفظ الصورة
-plt.savefig("/storage/emulated/0/Download/graphe1.png")
+plt.savefig("/storage/emulated/0/Download/graphe2.png")
